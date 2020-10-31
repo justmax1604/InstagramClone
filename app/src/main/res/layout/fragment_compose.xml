@@ -22,7 +22,7 @@
     <ImageView
         android:id="@+id/ivPostImage"
         android:layout_width="match_parent"
-        android:layout_height="375dp"
+        android:layout_height="400dp"
         tools:srcCompat="@tools:sample/avatars" />
 
     <Button
@@ -36,11 +36,5 @@
         android:visibility="invisible"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
-
-    <Button
-        android:id="@+id/btnLogOut"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Log Out"/>
 
 </LinearLayout>
